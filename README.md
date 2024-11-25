@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jsh-Agarwal
-- 👀 I’m interested in app dev
-- 🌱 I’m currently learning flutter
-- 💞️ I’m looking to collaborate on mobile cross platform development
+- 👀 I’m interested in ML, Mlops and Blockchain
+- 🌱 I’m currently learning MLops 
+- 💞️ I’m looking to collaborate on mobile and web cross platform development
 - 📫 reach me at jshagarwal15@gmail.com
 - 😄 Pronouns: He/Him
 
